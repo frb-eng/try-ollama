@@ -1,5 +1,5 @@
 ollama == 0.3.2
-langchain==0.2.6
-langchain-community==0.2.6
-langchain-core==0.2.10
-langchain-text-splitters==0.2.2
+langchain==0.3.4
+langchain-ollama==0.2.0
+langchain-core==0.3.12
+langchain-text-splitters==0.3.0
